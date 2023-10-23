@@ -1,7 +1,7 @@
 {
   "name": "reeco",
   "version": "0.1.0",
-  "homepage": "https://phanit.github.io/Reeco",
+  "homepage": "https://phanit1.github.io/Reeco",
   "private": true,
   "dependencies": {
     "@handsontable/react": "^13.1.0",
