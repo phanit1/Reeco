@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Reeco/static/css/main.4e6429f8.css",
+    "main.js": "/Reeco/static/js/main.49b20377.js",
+    "static/js/787.94bc004f.chunk.js": "/Reeco/static/js/787.94bc004f.chunk.js",
+    "static/media/fruitimage.jpg": "/Reeco/static/media/fruitimage.b65e885eec2bd4bdfdf5.jpg",
+    "index.html": "/Reeco/index.html",
+    "main.4e6429f8.css.map": "/Reeco/static/css/main.4e6429f8.css.map",
+    "main.49b20377.js.map": "/Reeco/static/js/main.49b20377.js.map",
+    "787.94bc004f.chunk.js.map": "/Reeco/static/js/787.94bc004f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e6429f8.css",
+    "static/js/main.49b20377.js"
+  ]
+}
