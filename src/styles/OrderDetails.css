@@ -1,0 +1,33 @@
+.order-table {
+    border: 3px solid whitesmoke;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.order-table1 {
+    width: 100%;
+}
+
+.order-table .order-table1 td {
+    border-right: 3px solid whitesmoke;
+    padding-left: 3rem;
+    padding-right: 2rem;
+    margin: "10px";
+    color: grey;
+    font-weight: bold;
+    align-items:center;
+}
+
+.order-table .order-table1 th {
+    border-right: 3px solid whitesmoke;
+    padding-left: 3rem;
+    padding-right: 2rem;
+    font-size: larger;
+    align-items:flex-start;
+}
+.order-table .order-table1 td:last-child {
+    border-right: 0px;
+}
+.order-table .order-table1 th:last-child{
+    border-right: 0px;
+}

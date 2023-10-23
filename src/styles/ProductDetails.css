@@ -1,0 +1,48 @@
+.product-container {
+  border: 3px solid whitesmoke;
+  border-radius: 10px;
+  padding: 25px;
+}
+
+.row {
+  margin-bottom: 10px;
+}
+
+.searchbar {
+  border-radius: 28px;
+  width: 85%;
+  border: 4px solid whitesmoke;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 10px;
+}
+
+.buttonStyle Button {
+  border-radius: 42px;
+  width: 100px;
+  color: green;
+  border: 1px solid green;
+  font-weight: bold;
+  margin-right: 50px;
+}
+
+.statusStyle {
+  border-radius: 28px;
+  color: white;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  width:70%
+}
+
+.product-table {
+  width: 100%;
+  line-height: 50px;
+}
+
+.product-container .product-table td {
+  border-bottom: 2px solid darkgrey;
+}
+
+.product-table tbody td:nth-child(7), td:nth-child(8),td:nth-child(9)  {
+  background-color: whitesmoke;
+}

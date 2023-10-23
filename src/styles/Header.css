@@ -1,0 +1,29 @@
+.bg-success Navbar.Brand,
+.Nav.Link,
+.Navbar.Text {
+    color: white;
+}
+
+Container {
+    color: white;
+    ;
+}
+
+.buttonStyle1 Button {
+    border-radius: 42px;
+    width: 80px;
+    color: green;
+    border: 1px solid green;
+    font-weight: bold;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px;
+    margin-right: 10px;
+}
+
+.buttonStyle1 .buttonStyle2 {
+    border-radius: 42px;
+    width: 150px;
+    font-weight: bold;
+    color: white;
+}
